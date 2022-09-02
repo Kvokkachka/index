@@ -1,0 +1,97 @@
+.section-1 {
+	display: flex;
+}
+
+.text-section-1 {
+	margin-top: 161px;
+}
+
+.title_section {
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+
+.sub_title_text {
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+	color: #817979;
+	margin-top: 15px;
+}
+
+.btn-section {
+	margin-top: 90px;
+}
+
+.section-1-btn {
+	padding: 15px 20px;
+	background: #F03957;
+	border-radius: 10px;
+	color:#fff;
+	text-align: center;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+}
+
+.section-1-btn:hover {
+	background: #FFF;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+	color: #F03957;
+	border: 2px solid #F03957;
+	padding: 13px 18px;
+	border-radius: 10px;
+}
+
+.prim-list {
+	margin-left: 22px;
+	padding: 15px 20px;
+	color: #000;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+	text-align: center;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.prim-list:hover {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 175%;
+	letter-spacing: -0.05em;
+	color: #F7F5F5;
+	background: #000000;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.img-section-1 {
+	margin-top: 76px;
+	margin-bottom: 160px;
+	margin-left: 78px;
+	background: url(the-technician-repairing-the-computer-computer-hardware-repairing-upgrade-and-technology.jpg);
+}
+
+.section-1-img {
+	border-radius: 25px;
+}
